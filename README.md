@@ -2,6 +2,8 @@
 
 ### Desarrollador de software · Backend, datos e IA aplicada
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enrique--escaray-0A66C2)](https://www.linkedin.com/in/enrique-escaray/)
+
 Construyo software para problemas concretos: una plataforma minera que sigue funcionando sin conexión,
 un agente legal con RAG, un SaaS para gimnasios. Trabajo sobre todo con **Python** y **TypeScript**,
 bases de datos, pipelines de datos e IA aplicada, y cuido que lo que construyo sea confiable:
