@@ -1,4 +1,4 @@
-# Hola, soy Enrique 👋
+# Hola, soy Enrique
 
 ### Desarrollador de software · Backend, datos e IA aplicada
 
@@ -9,14 +9,14 @@ un agente legal con RAG, un SaaS para gimnasios. Trabajo sobre todo con **Python
 bases de datos, pipelines de datos e IA aplicada, y cuido que lo que construyo sea confiable:
 tests, CI, seguridad y decisiones de arquitectura documentadas.
 
-🔭 Ahora mismo: ingeniería de datos ([market-data-pipeline](https://github.com/enri-escaray/market-data-pipeline))
+Ahora mismo: ingeniería de datos ([market-data-pipeline](https://github.com/enri-escaray/market-data-pipeline))
 y módulos de Odoo ([Obrador](https://github.com/enri-escaray/obrador)).
 
 ---
 
 ## Proyectos destacados
 
-### ⛏️ [Mineral360](https://github.com/enri-escaray/minera-platform) — plataforma para operaciones mineras
+### [Mineral360](https://github.com/enri-escaray/minera-platform) — plataforma para operaciones mineras
 
 Microservicios que corren dentro del sitio minero y **siguen operando aunque se caiga el enlace con el exterior**:
 eventos idempotentes, colas *store-and-forward* y sincronización con la nube al reconectar. Cubre trazabilidad
@@ -24,7 +24,7 @@ del mineral, despacho de flota y mantenimiento predictivo, con seguridad por zon
 
 `Python` `FastAPI` `Kafka` `MQTT` `PostgreSQL` `TimescaleDB` `Docker` `K3s`
 
-### 📹 [Vigía](https://github.com/enri-escaray/vigia) — videovigilancia inteligente
+### [Vigía](https://github.com/enri-escaray/vigia) — videovigilancia inteligente
 
 Analiza en tiempo real webcams, cámaras IP (RTSP) o transmisiones HLS, detecta comportamientos sospechosos
 según la modalidad activa (en casa, nocturno, comercio abierto…) y dispara alertas con captura, clip y
@@ -32,14 +32,14 @@ notificaciones. Todo corre en local y sin reconocimiento facial.
 
 `Python` `YOLO` `OpenCV` `FastAPI`
 
-### ⚖️ [LexAR](https://github.com/enri-escaray/legal-rag-agent) — agente legal con RAG · [demo](https://legal-rag-agent-nzst.vercel.app)
+### [LexAR](https://github.com/enri-escaray/legal-rag-agent) — agente legal con RAG · [demo](https://legal-rag-agent-nzst.vercel.app)
 
 Responde consultas de derecho civil y comercial argentino citando artículos reales del Código Civil y Comercial,
 analiza expedientes en PDF y redacta borradores de contratos y cartas documento.
 
 `Next.js` `Supabase` `pgvector` `Gemini` `Hugging Face`
 
-### 🏋️ [CuotaFit](https://github.com/enri-escaray/CuotaFit) — SaaS para gimnasios · [app](https://cuotafit.vercel.app)
+### [CuotaFit](https://github.com/enri-escaray/CuotaFit) — SaaS para gimnasios · [app](https://cuotafit.vercel.app)
 
 Socios, cobros y morosidad, planes por tiempo o por pases y un check-in por PIN tipo kiosco que funciona
 sin internet (PWA). MVP en producción, multi-gimnasio y con los datos de cada gimnasio aislados con Row Level Security.
